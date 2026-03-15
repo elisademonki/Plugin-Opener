@@ -1,0 +1,20 @@
+.plugin-opener-inline-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  margin-left: 0.35rem;
+}
+
+.plugin-opener-inline-icon {
+  font-size: 0.95em;
+  line-height: 1;
+}
+
+.plugin-opener-inline-link {
+  font-size: 0.9em;
+}
+
+.plugin-opener-note {
+  margin-top: 1rem;
+  color: var(--text-muted);
+}
